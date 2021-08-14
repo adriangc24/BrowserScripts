@@ -2,8 +2,8 @@
 // @name         Click on Twitch channel points
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @include      http://*
-// @include      https://*
+// @include      https://www.twitch.tv/
+// @include      https://www.twitch.tv/*
 // @description  try to take over the world!
 // @author       You
 // @match        http://*/*
